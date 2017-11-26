@@ -28,5 +28,12 @@ class CashRegister
       @items << name
     end
     @last_transaction = price
-    end
+  end
+
+  def items
+    @items
+  end
+
+  
+    
 end
