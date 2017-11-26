@@ -13,8 +13,4 @@ class CashRegister
     @total
   end
 
-  
-    
-  end
-
 end
